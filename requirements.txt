@@ -1,4 +1,3 @@
 requests
 xlrd
-email.mime.text
 openpyxl
