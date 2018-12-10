@@ -1,5 +1,5 @@
 requests
-smtplib==3.5
+smtplib
 email.mime.text
 xlrd
 openpyxl
