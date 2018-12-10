@@ -1,0 +1,8 @@
+requests
+json
+smtplib
+xlrd
+email.mime.text
+xlwt
+time
+openpyxl
