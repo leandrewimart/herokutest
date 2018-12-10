@@ -1,5 +1,4 @@
 requests
-smtplib
 xlrd
 email.mime.text
 openpyxl
