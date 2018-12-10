@@ -1,3 +1,5 @@
 requests
+smtplib==3.5
+email.mime.text
 xlrd
 openpyxl
