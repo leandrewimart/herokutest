@@ -1,6 +1,7 @@
 #TGVMAXPLUS_simple_final_1.0_stable
 
 #---------------
-import os
+import time
 
 print("Salut")
+time.sleep(5)
